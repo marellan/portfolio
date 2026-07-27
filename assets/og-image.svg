@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Maribel Arellano portfolio preview">
+  <rect width="1200" height="630" fill="#f4efe6"/>
+  <rect x="64" y="64" width="1072" height="502" fill="none" stroke="#d8d0c2" stroke-width="2"/>
+  <circle cx="1036" cy="142" r="10" fill="#c84b31"/>
+  <text x="118" y="158" font-family="'DM Mono', Menlo, Consolas, monospace" font-size="24" letter-spacing="4" fill="#c84b31">MA PORTFOLIO 2026</text>
+  <text x="112" y="316" font-family="Didot, 'Bodoni 72', Georgia, serif" font-size="116" font-weight="800" fill="#100e0a">Maribel</text>
+  <text x="116" y="426" font-family="Didot, 'Bodoni 72', Georgia, serif" font-size="104" font-style="italic" fill="#100e0a">Arellano</text>
+  <text x="118" y="508" font-family="Inter, Arial, sans-serif" font-size="34" fill="#6b6456">Senior Digital PM / Web Producer</text>
+  <text x="118" y="552" font-family="Inter, Arial, sans-serif" font-size="28" fill="#6b6456">Bay Area, CA</text>
+</svg>
